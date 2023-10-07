@@ -1,5 +1,18 @@
 # web-search plugin
 
+### This is an intresting plugin from [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/web-search),<BR>⚠️ please note that all credits are of oh-my-zsh team
+
+## Usage
+
+To use it, add `"zap-zsh/web-search"` to the plugins in your zshrc file:
+
+```zsh
+plug "zap-zsh/web-search"
+```
+
+<BR><BR>
+
+
 This plugin adds aliases for searching with Google, Wiki, Bing, YouTube and other popular services.
 
 Open your `~/.zshrc` file and enable the `web-search` plugin:
